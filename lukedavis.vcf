@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Davis;Luke;;;
+FN:Luke Davis
+ORG:Vision Technology Group
+ADR;TYPE=WORK:2427 John Wayland Hwy Suite #1
+Harrisonburg, VA 22801
+TITLE:Computer Technician
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:540-437-0112
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:ldavis@vtg.biz
+URL;TYPE=Digital Business Card:
+URL:https://www.vtg.biz
+URL;TYPE=Website:https://www.vtg.biz
+URL;TYPE=Location:2427 John Wayland Hwy Suite #1 Harrisonburg, VA 22801
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Vision Technology Group offers best-in-class IT services to improve your business’ efficiency and to protect your data using advanced network monitoring tools. We enable our clients to increase their value by developing, implementing, and managing advanced, secure, and agile IT solutions.
+UID:EnBizCard-100420073
+END:VCARD
